@@ -1,0 +1,15 @@
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.AssemblyInfoInputs.cache
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.AssemblyInfo.cs
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.csproj.CoreCompileInputs.cache
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.sourcelink.json
+C:\Semana9\matriz1\bin\Debug\net10.0\Matriz1.exe
+C:\Semana9\matriz1\bin\Debug\net10.0\Matriz1.deps.json
+C:\Semana9\matriz1\bin\Debug\net10.0\Matriz1.runtimeconfig.json
+C:\Semana9\matriz1\bin\Debug\net10.0\Matriz1.dll
+C:\Semana9\matriz1\bin\Debug\net10.0\Matriz1.pdb
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.dll
+C:\Semana9\matriz1\obj\Debug\net10.0\refint\Matriz1.dll
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.pdb
+C:\Semana9\matriz1\obj\Debug\net10.0\Matriz1.genruntimeconfig.cache
+C:\Semana9\matriz1\obj\Debug\net10.0\ref\Matriz1.dll
