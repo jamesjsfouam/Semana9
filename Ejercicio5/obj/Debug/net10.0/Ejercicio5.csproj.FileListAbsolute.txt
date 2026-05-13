@@ -1,0 +1,15 @@
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfo.cs
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.sourcelink.json
+C:\Semana9\Ejercicio5\bin\Debug\net10.0\Ejercicio5.exe
+C:\Semana9\Ejercicio5\bin\Debug\net10.0\Ejercicio5.deps.json
+C:\Semana9\Ejercicio5\bin\Debug\net10.0\Ejercicio5.runtimeconfig.json
+C:\Semana9\Ejercicio5\bin\Debug\net10.0\Ejercicio5.dll
+C:\Semana9\Ejercicio5\bin\Debug\net10.0\Ejercicio5.pdb
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.dll
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\refint\Ejercicio5.dll
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.pdb
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\Ejercicio5.genruntimeconfig.cache
+C:\Semana9\Ejercicio5\obj\Debug\net10.0\ref\Ejercicio5.dll
